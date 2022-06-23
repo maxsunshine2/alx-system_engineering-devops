@@ -15,4 +15,5 @@ ln -s /bin/ls __ls__: creates a symbolic between the two arguments
 cp -nu *.html .. : copies html from to parent folder except duplicates and newer ones
 mv [[:upper:]]* /tmp/u : move all files beginning with a capital letter to tmp/u
 rm *~ : removes all files ending with ~
-mkdir welcome/ welcome/to/ welcome/to/school : creates the directoriers in the argument 
+mkdir welcome/ welcome/to/ welcome/to/school : creates the directoriers in the argument
+ls -pamv : prints all contents seperated by commas 
