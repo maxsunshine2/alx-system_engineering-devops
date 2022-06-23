@@ -3,3 +3,4 @@ ls: lists all the contents of current directory
 cd: g oback to home directory
 ls -l: display current directory content in long format
 ls -a -l: list more files even hidden files
+ls lna: list files along with user and group ids numerically
