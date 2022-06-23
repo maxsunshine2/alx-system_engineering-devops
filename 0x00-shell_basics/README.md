@@ -16,4 +16,5 @@ cp -nu *.html .. : copies html from to parent folder except duplicates and newer
 mv [[:upper:]]* /tmp/u : move all files beginning with a capital letter to tmp/u
 rm *~ : removes all files ending with ~
 mkdir welcome/ welcome/to/ welcome/to/school : creates the directoriers in the argument
-ls -pamv : prints all contents seperated by commas 
+ls -pamv : prints all contents seperated by commas
+0 string SCHOOL School data !:mime School : school files  
