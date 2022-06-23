@@ -4,3 +4,4 @@ cd: g oback to home directory
 ls -l: display current directory content in long format
 ls -a -l: list more files even hidden files
 ls lna: list files along with user and group ids numerically
+mkdir /tmp/my_first_directory: a script that creates a diecroty in tmp
