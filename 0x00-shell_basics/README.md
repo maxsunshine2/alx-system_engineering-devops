@@ -14,3 +14,4 @@ file /tmp/iamafile : prints type  of file with the arguement
 ln -s /bin/ls __ls__: creates a symbolic between the two arguments
 cp -nu *.html .. : copies html from to parent folder except duplicates and newer ones
 mv [[:upper:]]* /tmp/u : move all files beginning with a capital letter to tmp/u
+rm *~ : removes all files ending with ~
