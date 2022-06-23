@@ -10,3 +10,4 @@ rm /tmp/my_first_directory/betty
 rmdir /tmp/my_first_directory: deletes the directory from /tmp
 cd - : changes pwd to the previous pwd
 ls -a -l . .. /boot : list files even hidden ones in the order . .. /boot directories
+file /tmp/iamafile : prints type  of file with the arguement
